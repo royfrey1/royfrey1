@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi Roy 👋
 
 
-**royfrey1/royfrey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Twitter Follow](https://img.shields.io/twitter/follow/rxyfrey?label=Follow&logo=Twitter&style=social)](https://twitter.com/rxyfrey)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
