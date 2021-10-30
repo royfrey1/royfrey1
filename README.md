@@ -1,4 +1,4 @@
-### Hi Roy 👋
+### Hi, im Roy 👋
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rxyfrey?label=Follow&logo=Twitter&style=social)](https://twitter.com/rxyfrey)
